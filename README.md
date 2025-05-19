@@ -1,6 +1,6 @@
 # IT Inventory Tracker
 
-A desktop application for tracking and managing IT devices in an organization. Built with Python and Tkinter, this app supports role-based user access, device history logging, and exportable records.
+A desktop application for tracking and managing IT devices in an organization. Built with Python and Tkinter, this app supports role-based user access, device history logging, and exportable records. This is just for fun and learning, had help with ChatGPT to fix bugs.
 
 ## 🔧 Features
 
@@ -27,6 +27,3 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
-
-
-## JUST FOR FUN
