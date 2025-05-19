@@ -27,3 +27,6 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
+```
+![Login](images/login.png)
+![Main Dashboard](images/application.png)
